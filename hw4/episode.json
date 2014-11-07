@@ -1,0 +1,70 @@
+{
+    "Episodes": [
+        {
+            "id": 1,
+            "season": 1,
+            "title": "Pilot",
+            "directed": "James Burrows"
+        },
+        {
+            "id": 2,
+            "season": 1,
+            "title": "The Big Bran Hypothesis",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 3,
+            "season": 1,
+            "title": "The Fuzzy Boots Corollary",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 4,
+            "season": 1,
+            "title": "The Luminous Fish Effect",
+            "directed": "Andrew D. Weyman"
+        },
+        {
+            "id": 5,
+            "season": 1,
+            "title": "The Middle-Earth Paradigm",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 7,
+            "season": 1,
+            "title": "The Dumpling Paradox",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 8,
+            "season": 1,
+            "title": "The Grasshopper Experiment",
+            "directed": "Ted Wass"
+        },
+        {
+            "id": 9,
+            "season": 1,
+            "title": "The Cooper-Hofstadter Polarization",
+            "directed": "Joel Murray"
+        },
+        {
+            "id": 10,
+            "season": 1,
+            "title": "The Loobenfeld Decay",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 11,
+            "season": 1,
+            "title": "The Pancake Batter Anomaly",
+            "directed": "Mark Cendrowski"
+        },
+        {
+            "id": 12,
+            "season": 1,
+            "title": "The Jerusalem Duality",
+            "directed": "Mark Cendrowski"
+        }
+    ]
+}
